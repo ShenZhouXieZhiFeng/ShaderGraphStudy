@@ -1406,7 +1406,7 @@
     ],
     "synonyms": [],
     "m_Precision": 1,
-    "m_PreviewExpanded": false,
+    "m_PreviewExpanded": true,
     "m_PreviewMode": 2,
     "m_CustomColors": {
         "m_SerializableColors": []
@@ -1424,7 +1424,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "X",
     "m_StageCapability": 3,
-    "m_Value": 0.07000000029802323,
+    "m_Value": 1.2999999523162842,
     "m_DefaultValue": 0.0,
     "m_Labels": []
 }
